@@ -5,8 +5,10 @@ Trend Vision One SNS and CloudWatch logs
 Currently, this is not supported. Cloud One Workload Security has no ability to forward Syslog events directly to Amazon S3 and Cloudwatch.
 https://success.trendmicro.com/en-US/solution/KA-0010725#Funct_SIEM_07
 
-Nevertheless, Cloud One Workload Security can support forwarding events to Amazon SNS and create functions to write it to CloudWatch logs.
+Nevertheless, Cloud One Workload Security can support forwarding events to Amazon SNS.
 https://cloudone.trendmicro.com/docs/workload-security/event-sns/
+
+You can use a Lambda function in one AWS account to subscribe to an Amazon Simple Notification Service (Amazon SNS) topic. When you publish messages to your Amazon SNS topic, your Lambda function reads the contents of the message and outputs it to Amazon CloudWatch Logs
 
 ![image](https://github.com/user-attachments/assets/8b4f8d46-4376-45d3-b156-04d243e14f5c)
 
