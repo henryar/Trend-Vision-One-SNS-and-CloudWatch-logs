@@ -13,3 +13,4 @@ You can use a Lambda function in one AWS account to subscribe to an Amazon Simpl
 ![image](https://github.com/user-attachments/assets/8b4f8d46-4376-45d3-b156-04d243e14f5c)
 
 
+![image](https://github.com/user-attachments/assets/1955e4ce-0c38-4e9b-a837-705d54a6c37e)
